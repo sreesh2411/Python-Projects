@@ -12,7 +12,7 @@ This repository contains the files and folders of the projects implemented using
 </p>
 
 - TicTacToe : Simulation of TicTacToe in Python against the Computer. (Currently wokring on 2 players).
-- <p align="center">
+<p align="center">
   <img src="https://github.com/sreesh2411/Python-Projects/blob/main/tictactoe/ttt1.png" />
 </p>
 <p align="center">
